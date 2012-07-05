@@ -1,2 +1,2 @@
-android_device_samsung_galasxys2_uscellular
+android_device_samsung_galaxys2_uscellular
 ===========================================
